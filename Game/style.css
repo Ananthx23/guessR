@@ -20,11 +20,7 @@ input{
 span{
     display: inline;
 }
-/*button{
-    position: absolute;
-    right:760px;
-    top:700px
-}*/
+
 .block{
     margin: auto;
     margin-top: 10px;
@@ -106,3 +102,4 @@ body{
     background-attachment: fixed;
     background-size: cover;
 }
+
